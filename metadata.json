@@ -1,0 +1,7 @@
+{
+  "name": "Product Studio",
+  "description": "A high-end AI product photography tool to transform simple product shots into professional studio and lifestyle images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
